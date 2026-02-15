@@ -1,4 +1,5 @@
 package operators;
+//Autor:Altaf Dar
 
 public class Remainderbymodulus {
 public static void main(String[] args) {
@@ -11,8 +12,8 @@ public static void main(String[] args) {
 
     remainder = num1 % num2;   // Modulus operator to find remainder
 
-    System.out.println("First Number: " + num1);
-    System.out.println("Second Number: " + num2);
-    System.out.println("Remainder: " + remainder);
+    System.out.println("First Number: " + num1); // Prints First Number 
+    System.out.println("Second Number: " + num2); // Prints Second Number
+    System.out.println("Remainder: " + remainder); // Prints Remainder
 }
 }
