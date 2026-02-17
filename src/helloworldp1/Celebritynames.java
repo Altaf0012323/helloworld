@@ -2,7 +2,7 @@ package helloworldp1;
 
 public class Celebritynames {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 System.out.println("Salaman Khan");
 System.out.print("Prabhas");
